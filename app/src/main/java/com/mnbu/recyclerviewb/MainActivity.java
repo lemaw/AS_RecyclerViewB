@@ -2,6 +2,7 @@ package com.mnbu.recyclerviewb;
 
 import static java.util.Locale.filter;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.KeyEvent;
@@ -141,6 +142,4 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
-
 }
